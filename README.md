@@ -7,7 +7,7 @@ This project's primary goal is to identify the reasons for employees' departures
 
 ## *KPI Used*:
 - Count of employees - Total number of employees working in organisation
-- Attrition Count - Total nnumber of employees who departured from the organisation
+- Attrition Count - Total number of employees who departured from the organisation
 - Attrition rate  
 - Average Age - Avg age of employees
 - Average salary - Avg salary of employees
@@ -45,6 +45,6 @@ This project's primary goal is to identify the reasons for employees' departures
 ## Key Skills involved:
 - Data cleaning
 - Data formatting
-- POWER BI 
+- Data Visualization
 - Data storytelling
 - Windows shortcut
